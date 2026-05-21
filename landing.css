@@ -3,3 +3,8 @@
 body {
     font-family:'Roboto', 'Times New Roman', Times, serif;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
