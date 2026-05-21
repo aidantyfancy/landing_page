@@ -51,7 +51,7 @@ a {
 }
 
 #Aidan:hover{
-    color: blueviolet;
+    color: rgba(255, 190, 25, 0.744);
     font-size: 60px;
     cursor: zoom-in;
 }
