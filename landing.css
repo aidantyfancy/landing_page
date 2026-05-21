@@ -35,6 +35,11 @@ a {
     color:aliceblue
 }
 
+.hero1 {
+    font-size:48px;
+    font-weight: 700;
+}
+
 .left_hero {
     display: flex;
     flex-direction: column;
