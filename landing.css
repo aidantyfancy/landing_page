@@ -10,8 +10,12 @@ body {
     align-items: center;
     background-color: rgb(2, 103, 2);
     color: aliceblue;
+    padding: 12px
 }
 
+.right_links {
+    display: flex;
+}
 a {
     text-decoration: none;
     color: aliceblue;
