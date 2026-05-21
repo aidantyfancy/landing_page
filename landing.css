@@ -50,6 +50,11 @@ a {
     margin: 10px 0px;
 }
 
+#Aidan:hover{
+    color: blueviolet;
+    font-size: 60px;
+    cursor: zoom-in;
+}
 .hero2 {
     font-size:18px;
     color: rgba(240, 248, 255, 0.53);
