@@ -28,3 +28,9 @@ a {
     text-decoration: none;
     color: aliceblue;
 }
+
+.hero {
+    display: flex;
+    background-color: rgb(13, 53, 13);
+    color:aliceblue
+}
