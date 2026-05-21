@@ -34,3 +34,11 @@ a {
     background-color: rgb(13, 53, 13);
     color:aliceblue
 }
+
+.left_hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 400px;
+    flex-shrink: 0;
+}
