@@ -52,3 +52,14 @@ a {
     font-size:18px;
     color: rgba(240, 248, 255, 0.53);
 }
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    width: 100px;
+    background-color: rgb(1, 88, 1);
+    color: azure;
+    border-radius: 10px;
+}
