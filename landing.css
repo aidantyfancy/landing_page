@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(13, 53, 13);
+    background-color: rgba(13, 53, 13, 0.642);
     color: aliceblue;
     padding: 12px;
     font-size: 18px;
@@ -31,7 +31,7 @@ a {
 
 .hero {
     display: flex;
-    background-color: rgb(13, 53, 13);
+    background-color: rgba(13, 53, 13, 0.642);
     color:aliceblue;
     padding: 20px
 }
