@@ -72,3 +72,7 @@ button {
     border-radius: 10px;
     margin: 5px 0px;
 }
+
+button:hover {
+    cursor: pointer;
+}
