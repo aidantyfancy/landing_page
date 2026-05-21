@@ -16,6 +16,7 @@ body {
 .right_links {
     display: flex;
 }
+
 a {
     text-decoration: none;
     color: aliceblue;
