@@ -121,3 +121,8 @@ img {
     display: flex;
     flex-direction: column;
 }
+
+.subtext {
+    display: flex;
+    width: 200px;
+}
