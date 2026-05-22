@@ -115,3 +115,8 @@ img {
     height: auto;
     border: 2px solid rgb(1, 88, 1);
 }
+
+.image {
+    display: flex;
+    flex-direction: column;
+}
