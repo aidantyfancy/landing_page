@@ -80,6 +80,8 @@ button:hover {
 
 img {
     height: 300px;
+    border-radius: 30px;
+    border: 4px dotted black;
 }
 
 .right_hero {
