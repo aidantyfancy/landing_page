@@ -84,6 +84,6 @@ img {
 
 .right_hero {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     flex: 1;
 }
