@@ -99,3 +99,8 @@ img {
 .photos {
     display: flex;
 }
+
+.photos .image img {
+    width: 250px;
+    height: auto;
+}
