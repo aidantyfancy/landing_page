@@ -98,7 +98,8 @@ img {
 
 .random_blurb {
     font-size: 36px;
-    font-weight:900 ;
+    font-weight:900;
+    align-self: center;
 }
 
 .photos {
