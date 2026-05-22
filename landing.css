@@ -113,4 +113,5 @@ img {
 .photos .image img {
     width: 250px;
     height: auto;
+    border: 2px solid rgb(1, 88, 1);
 }
