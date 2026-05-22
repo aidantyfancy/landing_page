@@ -94,6 +94,7 @@ img {
 .random {
     display: flex;
     flex-direction: column;
+    padding: 30px;
 }
 
 .random_blurb {
