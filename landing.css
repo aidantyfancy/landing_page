@@ -41,6 +41,7 @@ a {
     flex-direction: column;
     justify-content: flex-start;
     width: 400px;
+    margin: 40px;
     flex-shrink: 0;
 }
 
