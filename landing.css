@@ -75,4 +75,5 @@ button {
 
 button:hover {
     cursor: pointer;
+   font-size: larger;
 }
