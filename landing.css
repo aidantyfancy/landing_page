@@ -90,3 +90,8 @@ img {
     justify-content: space-evenly;
     flex: 1;
 }
+
+.random {
+    display: flex;
+    flex-direction: column;
+}
