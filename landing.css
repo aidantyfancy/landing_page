@@ -77,3 +77,13 @@ button:hover {
     cursor: pointer;
    font-size: larger;
 }
+
+img {
+    height: 300px;
+}
+
+.right_hero {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+}
