@@ -125,4 +125,6 @@ img {
 .subtext {
     display: flex;
     width: 200px;
+    align-self: center;
+    text-align: center;
 }
