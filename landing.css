@@ -144,4 +144,5 @@ img {
 .brian{
     display: flex;
     justify-content: flex-end;
+    font-weight: 700;
 }
