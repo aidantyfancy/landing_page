@@ -134,3 +134,8 @@ img {
     display: flex;
     flex-direction: column;
 }
+
+.qt{
+    font-size: 36px;
+    font-weight: 300;
+}
