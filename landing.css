@@ -129,3 +129,8 @@ img {
     text-align: center;
     padding: 12px;
 }
+
+.quote{
+    display: flex;
+    flex-direction: column;
+}
