@@ -134,6 +134,7 @@ img {
     display: flex;
     flex-direction: column;
     padding: 100px;
+    background-color: gainsboro;
 }
 
 .qt{
