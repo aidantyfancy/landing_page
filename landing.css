@@ -97,6 +97,7 @@ img {
     display: flex;
     flex-direction: column;
     padding: 30px;
+    margin: 10px 100px;
 }
 
 .random_blurb {
