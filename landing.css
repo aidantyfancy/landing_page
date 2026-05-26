@@ -162,6 +162,7 @@ img {
     padding: 50px 80px;
     margin: 40px;
     border-radius: 20px;
+    border: 5px red groove;
 }
 
 #call {
