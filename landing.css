@@ -152,3 +152,7 @@ img {
     display: flex;
     justify-content: space-between;
 }
+
+.signup{
+    background-color: rgb(255, 150, 150);
+}
