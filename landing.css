@@ -173,5 +173,6 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:rgba(13, 53, 13, 0.642) ;
+    background-color:rgba(13, 53, 13, 0.642);
+    padding: 34px;
 }
