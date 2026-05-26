@@ -5,7 +5,7 @@ This project will test my abilities with everything I have learned in The Odin P
 
 This project is not intended to adapt to different viewports (phone, smaller window, etc), but is being used to showcase flexbox abilities.
 
-ball.jpg courtesy of Alexas Fotos
-bell.jpg courtesy of Joerg Hartmann
-eggs.jpg courtesy of J KREATOR
+ball.jpg courtesy of Alexas Fotos,
+bell.jpg courtesy of Joerg Hartmann,
+eggs.jpg courtesy of J KREATOR,
 bird.jpg courtesy of Enrique Hidalgo
