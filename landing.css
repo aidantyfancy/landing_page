@@ -91,6 +91,7 @@ img {
     display: flex;
     justify-content: space-evenly;
     flex: 1;
+    gap: 8px;
 }
 
 .random {
