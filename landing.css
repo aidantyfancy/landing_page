@@ -155,4 +155,7 @@ img {
 
 .signup{
     background-color: rgb(255, 150, 150);
+    padding: 50px 80px;
+    margin: 40px;
+    border-radius: 20px;
 }
