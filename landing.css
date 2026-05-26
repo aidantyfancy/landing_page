@@ -138,7 +138,7 @@ img {
 .quote{
     display: flex;
     flex-direction: column;
-    padding: 100px;
+    padding: 100px 250px;
     background-color: gainsboro;
 }
 
