@@ -159,3 +159,8 @@ img {
     margin: 40px;
     border-radius: 20px;
 }
+
+#call {
+    font-size: 30px;
+    font-weight: 700;
+}
